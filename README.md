@@ -190,7 +190,7 @@
     <img
       align="center"
       alt="muhammad-ashik"
-      src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ashik&amp;show_icons=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ashik&amp;show_icons=true"
       style="max-width: 100%"
     />
   </div>
