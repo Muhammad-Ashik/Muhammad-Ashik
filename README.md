@@ -153,7 +153,7 @@
         align="left"
         alt="webpage"
         width="22px"
-        src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"
+        src="https://camo.githubusercontent.com/8c25ab07b62e602edf324911042fd70196a308013f736d404fb830e3a765c194/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f696e7465726e65742e737667"
         style="max-width: 100%"
     /></a>
     <a
@@ -164,7 +164,7 @@
         align="left"
         alt="muhammad-ashik | Facebook"
         width="22px"
-        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg"
+        src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"
         data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"
         style="max-width: 100%"
     /></a>
@@ -176,7 +176,7 @@
         align="left"
         alt="ashik  | LinkedIn"
         width="22px"
-        src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667"
+        src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"
         data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
         style="max-width: 100%"
       />
