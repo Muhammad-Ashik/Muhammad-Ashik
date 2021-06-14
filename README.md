@@ -188,7 +188,7 @@
     <i><b>Github Stats</b></i>
     <br />
     <img
-      align="left"
+      align="center"
       alt="muhammad-ashik"
       src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ashik&amp;show_icons=true"
       style="max-width: 100%"
@@ -197,18 +197,9 @@
     <div align="center">
     <br />
     <img
-      align="right"
+      align="center"
       alt="muhammad-ashik"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ashik"
-      style="max-width: 100%"
-    />
-  </div>
-      <div align="center">
-    <br />
-    <img
-      align="right"
-      alt="muhammad-ashik"
-      src="https://github-readme-stats.vercel.app/api/wakatime?Muhammad-Ashik=willianrod"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ashik&layout=compact"
       style="max-width: 100%"
     />
   </div>
