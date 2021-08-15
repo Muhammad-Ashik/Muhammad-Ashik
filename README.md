@@ -58,7 +58,7 @@
       <img
         align="right"
         src="https://user-images.githubusercontent.com/38232006/129477944-1ab16712-0b0c-4374-9408-7671f34714d2.gif"
-        height="300"
+        height="400"
         data-canonical-src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"
         style="max-width: 100%"
       />
@@ -156,7 +156,7 @@
       >
         ⚡
       </g-emoji>
-      Fun fact: I waste most of my time playing games
+      Fun fact: I was a gamer and I inspired for programming from my gaming life
     </li>
   </ul>
   <h3>
@@ -222,6 +222,10 @@
     </a>
     <br />
   </p>
+  <br />
+  <br />
+  <br />
+  <br />
   <br />
   <br />
   <div align="center">
