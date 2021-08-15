@@ -53,13 +53,13 @@
     <a
       target="_blank"
       rel="noopener noreferrer"
-      href="https://user-images.githubusercontent.com/38232006/129477944-1ab16712-0b0c-4374-9408-7671f34714d2.gif"
+      href="https://user-images.githubusercontent.com/38232006/129484253-926253cb-e6e2-42a0-97f5-ee6add045630.gif"
     >
       <img
         align="right"
-        src="https://user-images.githubusercontent.com/38232006/129477944-1ab16712-0b0c-4374-9408-7671f34714d2.gif"
-        height="400"
-        data-canonical-src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"
+        src="https://user-images.githubusercontent.com/38232006/129484253-926253cb-e6e2-42a0-97f5-ee6add045630.gif"
+        height="300"
+        data-canonical-src="https://user-images.githubusercontent.com/38232006/129484253-926253cb-e6e2-42a0-97f5-ee6add045630.gif"
         style="max-width: 100%"
       />
     </a>
